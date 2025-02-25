@@ -116,7 +116,30 @@ ORDER BY minute;
 
 ![image](https://github.com/user-attachments/assets/377510d8-d42f-401e-b70e-0967a4751b57)
 
-![image](https://github.com/user-attachments/assets/703dd4e1-2695-4984-9917-04e84750db08)
+
+![image](https://github.com/user-attachments/assets/784eb773-85b8-4621-87d4-9902f2b65e73)
+
+
+![image](https://github.com/user-attachments/assets/1e5e232a-b7ea-4bef-a95b-af37a377bdf7)
+
+
+![image](https://github.com/user-attachments/assets/d56f7fda-47c1-4f42-ba84-970ea4865719)
+
+
+![image](https://github.com/user-attachments/assets/8cf19f90-cdce-416b-8816-3237f9f9cb6e)
+
+
+![image](https://github.com/user-attachments/assets/bf250e77-3405-49b0-a2b8-b6eb45d12180)
+
+
+![image](https://github.com/user-attachments/assets/a00fabd5-5891-43bf-a4d5-a166df19128b)
+
+
+
+
+
+
+
 
 
 
