@@ -76,8 +76,9 @@ ORDER BY count DESC;
 ```sql
 SELECT url, COUNT(*) AS visit_count 
 FROM web_server_logs 
-GROUP BY url 
-ORDER BY visit_count DESC;
+GROUP BY url
+ORDER BY visit_count DESC
+Limit 3;
 ```
 
 #### Traffic Source Analysis
